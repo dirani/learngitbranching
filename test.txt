@@ -1,0 +1,7 @@
+This is a test of this repository. Where is the remote?
+
+PS C:\Users\Ricardo\Documents\GitHub\learngitbranching> git branch -r
+  origin/HEAD -> origin/main
+  origin/main
+
+  
